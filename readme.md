@@ -8,7 +8,7 @@ Elementi chiave: lista prodotti mancanti essenziali (non esagero con snacks), ri
 
 Situazione: Fare la spesa. (sono già vestito per uscire.)
 
-- Scrivo una lista della spesa
+- SCRIVO UNA LISTA DELLA SPESA
   - decido dove scriverla
   - ? SE la scrivo sul cellulare: 
       - sblocco lo schermo del cellulare
@@ -24,14 +24,14 @@ Situazione: Fare la spesa. (sono già vestito per uscire.)
            - guardo i ripiani del cibo
            - scrivo cosa manca 
 
-- Prendo il portafogli con i coupons
+- PRENDO IL PORTAFOGLI CON I COUPONS
   - mi assicuro di avere i contanti dentro
   - ? SE NON trovo i contanti dentro, li cerco e poi li metto dentro il portafogli
   - ALTRIMENTI posso procedere a controllare se ci sono dentro anche i coupons
     - SE trovo i coupons, posso chiudere il portafoglio completo e riporlo in tasca
     - SE NON trovo i coupons, vado a cercarli e poi li metto insieme ai contanti dentro il portafogli, che infine ripongo in tasca
 
-- Esco di casa
+- ESCO DI CASA
   - prendo le chiavi
     - ? SE NON le trovo, le cerco e le porto con me
     - ALTRIMENTI posso uscire senza preoccuparmi di restare chiuso fuori al ritorno (vivo sola con un gatto)
@@ -43,22 +43,56 @@ Situazione: Fare la spesa. (sono già vestito per uscire.)
   - scendo dalle scale (il condominio non ha un ascensore, se lo avesse deciderei se prendere le scale o l'ascensore in base al mio stato di salute)
   - esco dal portone
 
+- RAGGIUNGO IL SUPERMERCATO
+   - ? SE la lista della spesa che ho fatto è lunga, prendo la macchina
+     - ALTRIMENTI vado a piedi 
+   - scelgo in che supermercato andare
+   - parto o in macchina o a piedi
+   - raggiungo l'entrata del supermercato entro l'orario di chiusura 
+    - ? SE lo trovo chiuso
+      - torno a casa e riprovo tutto domani
+      - vado in un altro supermercato ancora aperto
+      - ALTRIMENTI entro nel supermercato prescelto
 
--Raggiungo il supermercato
--Prendo un carrello
--Leggo la lista che ho preparato
--Mi dirigo nelle corsie dove si trovano i prodotti che ho segnato
--Prendo i prodotti
--Posiziono i prodotti nel mio carrello
--Controllo di aver preso tutto
--Mi dirigo verso le casse col carrello
--Faccio la coda
--Carico la mia spesa sul rullo
--Pago il conto
--Imbusto la spesa
--Posiziono la spesa nel carrello
--Esco dal supermercato
--Posiziono le buste in macchina
+- PRENDO UN CARRELLO
+  - ? SE ho una moneta, prendo il carrello ed entro
+    - SE NON ho una moneta, entro per chiederla ai commessi e poi vado a prendere il mio carrello per entrare
+
+- LEGGO LA LISTA CHE HO PREPARATO
+  - ? SE l'avevo scritta sul foglio, segno i prodotti che ho trovato con la penna
+    - SE NON l'avevo scritta sul foglio, l'avevo scritta sul cellulare, quindi lo elimino là
+
+- MI DIRIGO VERSO LE CORSIE DOVE SI TROVANO I PRODOTTI CHE HO SEGNATO
+  - ? SE trovo i prodotti, li prendo
+    - SE NON li trovo, chiedo dove posso trovarli e poi li prendo
+
+
+- POSIZIONO I PRODOTTI NEL MIO CARRELLO
+  - ? SE sono pesanti, li posiziono per primi di sotto
+    - SE NON sono prodotti pesanti, li posiziono tranquillamente sopra i prodotti che non si romperanno (pesanti)
+
+- CONTROLLO DI AVER PRESO TUTTO
+  - ? SE ho dimenticato qualcosa, torno a cercarla  
+  - SE NON ho dimenticato qualcosa, ho finito la spesa 
+
+- MI DIRIGO VERSO LE CASSE COL MIO CARRELLO
+  - cerco la cassa con meno coda
+    - ? SE trovo la cassa con poca coda, vado 
+     - SE NON la trovo, mi metto l'anima in pace e aspetto il mio turno con molta serenità 
+     - SE NON trovo la coda, invece, vado subito avanti, è subito il mio turno
+
+- CARICO LA MIA SPESA SUL RULLO
+- PAGO IL CONTO 
+  - tiro fuori i coupon e i soldi
+    - ? SE ho rispettato la lista, mni bastano i soldi
+    - SE NON ho rispettto la lista, lascio quello che non mi serve
+
+- IMBUSTO A SPESA
+  - ? SE mi bastano i sacchetti, posiziono la spesa nel carrello
+  - ALTRIMENTI chiedo altre buste, per poi posizionare tutto imbustato nel carrello 
+ - Esco dal supermercato
+ - Posiziono le buste in macchina
+ 
 -Metto il carrello al suo posto
 -Raggiungo la mia auto
 -Torno a casa
